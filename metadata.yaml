@@ -1,0 +1,33 @@
+_repo: The-Dog_9478
+contributor:
+  creator:
+    editor:
+      agent_name: Lewis, Elisha J. (Elisha Jarrett)
+      birthdate: 1820
+      deathdate: 1877
+      gutenberg_agent_id: '40438'
+      url: http://www.gutenberg.org/2009/agents/40438
+creator:
+  author:
+    agent_name: Youatt, William
+    birthdate: 1776
+    deathdate: 1847
+    gutenberg_agent_id: '3070'
+    url: http://www.gutenberg.org/2009/agents/3070
+    wikipedia: http://en.wikipedia.org/wiki/William_Youatt
+description: A nineteenth-century dog-lovers' manual, a combination of the essential
+  and the esoteric.
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Dogs'
+- !lcsh 'Dogs -- Diseases'
+title: The Dog
+url: http://www.gutenberg.org/ebooks/9478
