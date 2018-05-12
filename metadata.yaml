@@ -1,4 +1,5 @@
 _repo: The-Dog_9478
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,6 +8,9 @@ contributor:
       deathdate: 1877
       gutenberg_agent_id: '40438'
       url: http://www.gutenberg.org/2009/agents/40438
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Youatt, William
@@ -17,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Youatt
 description: A nineteenth-century dog-lovers' manual, a combination of the essential
   and the esoteric.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9478#The-Dog
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
