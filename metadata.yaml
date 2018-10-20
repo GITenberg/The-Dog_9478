@@ -35,5 +35,6 @@ subjects:
 - !lcc 'SF'
 - !lcsh 'Dogs'
 - !lcsh 'Dogs -- Diseases'
+- GITenberg
 title: The Dog
 url: http://www.gutenberg.org/ebooks/9478
